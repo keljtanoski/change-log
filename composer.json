@@ -1,0 +1,19 @@
+{
+    "name": "keljtanoski/change-log",
+    "description": "Change Logger for Eloquent Models in Laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Keljtanoski\\ChangeLog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kostadin Keljtanoski",
+            "email": "keljtanoski@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
